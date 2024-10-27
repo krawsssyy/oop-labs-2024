@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(195,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(208,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(240,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(245,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(260,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(261,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(267,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(276,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(276,31): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(285,16): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(285,33): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(297,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(358,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(363,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(378,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(379,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(385,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\lab2\main.cpp(394,25): warning C4018: '<': signed/unsigned mismatch
+  lab2.vcxproj -> C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\lab2\lab2\x64\Debug\lab2.exe
