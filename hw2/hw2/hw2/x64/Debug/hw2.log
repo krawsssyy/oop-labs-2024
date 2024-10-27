@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw2\hw2\hw2\main.cpp(181,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw2\hw2\hw2\main.cpp(187,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw2\hw2\hw2\main.cpp(229,12): warning C4553: '==': result of expression not used; did you intend '='?
+  hw2.vcxproj -> C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw2\hw2\x64\Debug\hw2.exe

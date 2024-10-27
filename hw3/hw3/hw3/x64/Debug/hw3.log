@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw3\hw3\hw3\main.cpp(60,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw3\hw3\hw3\main.cpp(62,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw3\hw3\hw3\main.cpp(104,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw3\hw3\hw3\main.cpp(162,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw3\hw3\hw3\main.cpp(173,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  hw3.vcxproj -> C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw3\hw3\x64\Debug\hw3.exe
