@@ -25,6 +25,7 @@ void Repository::updateElement(std::string CNP, Patient* elem) {
 	for (int i = 0; i < this->size; i++) // std::vector has no .length() function, but it has .size() which here returns the actual length of the vector, and not the size in bytes
 		if (this->elements[i]->getCNP() == CNP) {
 			// we use the CNP as an identifier
+			delete this->elements[i]; // cleanup for old element
 			this->elements[i] = elem;
 			return;
 		}
