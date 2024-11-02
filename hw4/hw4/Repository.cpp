@@ -39,9 +39,12 @@ void Repository::deleteElement(std::string CNP) {
 			break;
 		}
 
-	if (idx == this->size - 1) // if we have to delete the last element
+	if (idx == this->size - 1) {// if we have to delete the last element
 		this->size--; // we just decrease the size, essentially allowing for an overwrite and not taking that element into account
+		delete this->elements[idx]; // cleanup the memory for the deleted element
+	}
 	else {
+		delete this->elements[idx];
 		for (int i = idx; i < this->size - 1; i++)
 			this->elements[i] = this->elements[i + 1]; // shift the entire array to the left, so that we delete the element
 		this->size--;
