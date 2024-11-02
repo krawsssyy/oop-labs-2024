@@ -8,6 +8,9 @@ class Repository {
 	// this is a class that will be our "database" for patients (or whatever data types we want, since we made it for general use via templates)
 	private:
 		Patient** elements; // we will save pointers to our patients
+		// we save a list a pointers, thus Patient**
+		// we save them as pointers to properly manage the object's lifetime, as using regular objects would yield their deletion after addition to this repo
+		// thus cleaning up the dynamic memory for surgeries and consults lists and giving bad results
 		int size;
 		int capacity;
 	public:
