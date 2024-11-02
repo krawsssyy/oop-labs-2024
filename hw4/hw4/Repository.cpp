@@ -66,8 +66,8 @@ Patient** Repository::getAll() {
 void Repository::resize(int newSize) {
 	Patient** newElems = new Patient*[newSize];
 
-	memcpy(newElems, this->elements, sizeof(Patient) * this->capacity); // no checks since we will be only be resizing up
-
+	memcpy(newElems, this->elements, sizeof(Patient*) * this->capacity); // no checks since we will be only be resizing up
+	// since we hold pointers, we get the size of the pointer
 	this->capacity = newSize;
 	delete[] this->elements;
 	this->elements = newElems;
