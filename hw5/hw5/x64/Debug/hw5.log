@@ -1,0 +1,8 @@
+﻿  Console.cpp
+  Repository.cpp
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw5\hw5\hw5\Repository.cpp(20,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Service.cpp
+  main.cpp
+  Generating Code...
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw5\hw5\hw5\Service.cpp(32,1): warning C4715: 'Service::deleteBook': not all control paths return a value
+  hw5.vcxproj -> C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw5\hw5\x64\Debug\hw5.exe
