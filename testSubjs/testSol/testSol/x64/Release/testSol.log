@@ -1,0 +1,10 @@
+﻿  Subject4.cpp
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\testSubjs\testSol\testSol\Subject4.cpp(19,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\testSubjs\testSol\testSol\Subject4.cpp(47,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\testSubjs\testSol\testSol\Subject4.cpp(119,14): warning C4930: 'SportsEvent s1(void)': prototyped function not called (was a variable definition intended?)
+  Generating code
+  3 of 92 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  testSol.vcxproj -> C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\testSubjs\testSol\x64\Release\testSol.exe
