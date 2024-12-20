@@ -1,0 +1,28 @@
+﻿  Server.cpp
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Map.h(51,15): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'Server.cpp')
+  
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Map.h(51,38): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'Server.cpp')
+  
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Map.h(69,22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'Server.cpp')
+  
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Server.cpp(88,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Server.h
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Map.h(51,15): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'Server.h')
+  
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Map.h(51,38): warning C4804: '<': unsafe use of type 'bool' in operation
+  (compiling source file 'Server.h')
+  
+C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\hw11\Map.h(69,22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  (compiling source file 'Server.h')
+  
+x64\Release\Server.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  2 of 200 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hw11.vcxproj -> C:\Users\alex\Desktop\fac\materialeDoctorat\predare\lab oop\labs\hw11\hw11\x64\Release\hw11.exe
